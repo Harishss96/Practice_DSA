@@ -1,3 +1,5 @@
+package com.Java;
+
 import java.util.Scanner;
 
 public class Calculator {
