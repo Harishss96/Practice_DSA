@@ -7,6 +7,8 @@ public class PosNegZero {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter value to check Positive or Negative or Zero");
+                System.out.println("Enter value to check Positive or Negative or Zero");
+
 
         int num = input.nextInt();
 
